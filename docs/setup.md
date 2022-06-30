@@ -28,19 +28,20 @@ Here are some of the new libraries that I encountered, and took times to learn.
 
 The main smart contract is called Zksync, and the relationship are as follow.
 
-![[https://l2beat.com/projects/zksync/](https://l2beat.com/projects/zksync/)](Untitled.png)
+![[Layer 1 contract](../image/l1-contract.png)
 
-[https://l2beat.com/projects/zksync/](https://l2beat.com/projects/zksync/)
+Resource: https://l2beat.com/projects/zksync/
 
 A more detailed version on Layer 2 zksync.
 
-![[https://twitter.com/LuozhuZhang/status/1521131060188225537/photo/1](https://twitter.com/LuozhuZhang/status/1521131060188225537/photo/1)](Untitled%201.png)
+![Layer 2 structure](https://twitter.com/LuozhuZhang/status/1521131060188225537/photo/1)]
 
-[https://twitter.com/LuozhuZhang/status/1521131060188225537/photo/1](https://twitter.com/LuozhuZhang/status/1521131060188225537/photo/1)
+Resource: https://twitter.com/LuozhuZhang/status/1521131060188225537/photo/1
 
 # Step by Step
 
 1. Create a new repo and install relevant dependencies
+
    1. set up hardhat file
 
       ```jsx
@@ -49,6 +50,7 @@ A more detailed version on Layer 2 zksync.
       ```
 
    2. copy the dependencies in `package.json` from zksync github (matter-labs/zksync/contracts/package.json) and run `npm install`
+
 2. Configure solpp in `hardhat.config.ts`
    1. What is solpp? [solpp](https://www.notion.so/solpp-d0cb42703ec94165a3256747943a298e)
 3. Compile your file by running `npx hardhat compile`
