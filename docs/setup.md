@@ -28,13 +28,13 @@ Here are some of the new libraries that I encountered, and took times to learn.
 
 The main smart contract is called Zksync, and the relationship are as follow.
 
-![[Layer 1 contract](../image/l1-contract.png)
+![Layer 1 contract](../image/l1-contract.png)
 
 Resource: https://l2beat.com/projects/zksync/
 
 A more detailed version on Layer 2 zksync.
 
-![Layer 2 structure](https://twitter.com/LuozhuZhang/status/1521131060188225537/photo/1)]
+![Layer 2 structure](../image/l2-zksync.png)
 
 Resource: https://twitter.com/LuozhuZhang/status/1521131060188225537/photo/1
 
